@@ -5,7 +5,7 @@ const sendButton = document.getElementById('send');
 
 
 const GROQ_API_ENDPOINT = 'https://api.groq.com/openai/v1/chat/completions';
-const GROQ_API_KEY = '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'; // Replace with your actual Groq API key
+const GROQ_API_KEY = ''; // Replace with your actual Groq API key
 
 
 function initChat() {
